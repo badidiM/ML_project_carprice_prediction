@@ -53,7 +53,7 @@ plus de 340 000 annonces ont servi à l'entraînement.
 ![Données](screenshots/donnees.png)
 
 ### Résultat de l'estimation
-![Résultat](screenshots/resultat.png)
+![Résultat](screenshots/resultats.png)
 
 ## 📁 Structure du dépôt
 
